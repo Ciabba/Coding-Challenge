@@ -1,0 +1,87 @@
+body{
+  background-image: url("./background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  width: 1000px;
+}
+.contenuto{
+  margin: 30px;
+  padding: 5%;
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 15px;
+}
+
+.logo{
+  text-align: center;
+}
+.sottotitolo{
+  text-align: center;
+  font-size: 50px;
+  color: 	rgb(0,255 ,0 );
+  font-family: cursive;
+  
+}
+.bottoni{
+  text-align: center;
+
+}
+.riquadro{
+  width: auto;
+  height: auto;
+  background-color: lime;
+  margin: auto;
+  padding: 10px;
+}
+.testo-grande1{
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.statocarica1{
+  width: 300px;
+  
+  background-color: orange;
+  margin: left;
+  padding: 15px;
+  border-radius: 5px;
+
+}
+.testo-grande2{
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+
+}
+.statocarica2{
+  width: 650px;
+  
+  background-color: green;
+  margin: left;
+  padding: 15px;
+  border-radius: 5px;
+
+}
+.testo-grande3{
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+
+}
+.statocarica3{
+  width: 150px;
+  
+  background-color: red;
+  margin: left;
+  padding: 15px;
+  border-radius: 5px;
+
+}
+
+p{
+  color: white;
+  font-size: 20px;
+}
+
